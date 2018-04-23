@@ -71,7 +71,7 @@ license information.
 
 Credits
 -------
-* [adlan](https://github.com/adlan/BCM5722D) With Fix from [long1eu](https://github.com/long1eu)
+* [adlan](https://github.com/adlan/BCM5722D) [long1eu](https://github.com/long1eu)
 
 Disclaimer
 ----------
