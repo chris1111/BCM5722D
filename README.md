@@ -48,7 +48,7 @@ Support Mac OS X Lion 10.7 to MacOS High Sierra 10.13
 ## Method of installation
 
 ### Installation (Clover)
-### 10.6 to 10.10
+### 10.7 to 10.10
 - EFI/CLOVER/kexts/Other/IONetworkingFamily.kext/Contents/Plugins
 
 ### 10.11 to 10.13
@@ -56,7 +56,7 @@ Support Mac OS X Lion 10.7 to MacOS High Sierra 10.13
 
 ### Installation (S/L/E) with a correct permision
 - Install to `/System/Library/Extensions/IONetworkingFamily.kext/Contents/Plugins`
- 
+### 10.7 to 10.13
 
 ### For a issues ➤ Please report issues here [Issue ](https://github.com/chris1111/BCM5722D/issues)
 
