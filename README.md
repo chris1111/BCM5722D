@@ -71,9 +71,7 @@ license information.
 
 Credits
 -------
-* Early beta testers at the InsanelyMac forum (acero, Hacktrix2006, quadomatic,
-  queshaolangman, Zprood)
-* tg3(Linux) and bge(FreeeBSD) driver authors
+* [adlan](https://github.com/adlan/BCM5722D) With Fix from [long1eu](https://github.com/long1eu)
 
 Disclaimer
 ----------
