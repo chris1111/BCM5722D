@@ -55,8 +55,9 @@ Support Mac OS X Lion 10.7 to MacOS High Sierra 10.13
 - EFI/CLOVER/kexts/Other
 
 ### Installation (S/L/E) with a correct permision
-- Install to `/System/Library/Extensions/IONetworkingFamily.kext/Contents/Plugins`
 ### 10.7 to 10.13
+- Install to `/System/Library/Extensions/IONetworkingFamily.kext/Contents/Plugins`
+
 
 ### For a issues ➤ Please report issues here [Issue ](https://github.com/chris1111/BCM5722D/issues)
 
